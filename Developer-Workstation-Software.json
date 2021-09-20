@@ -1,0 +1,53 @@
+{
+	"packages": [
+		{
+			"category": "Browsers",
+			"ids": [
+				"googlechrome",
+				"brave",
+				"firefox-dev",
+				"microsoft-edge",
+				"opera",
+				"safari"
+			]
+		},
+		{
+			"category": "Utilities",
+			"ids": [
+				"notepadplusplus",
+				"7zip",
+				"fiddler",
+				"postman"
+			]
+		},
+		{
+			"category": "Chat Clients",
+			"ids": [
+				"slack",
+				"microsoft-teams.install"
+			]
+		},
+		{
+			"category": "Development Tools",
+			"ids": [
+				"sourcetree",
+				"meld",
+				"dotpeek",
+				"nvm"
+			]
+		},
+		{
+			"category": "BE Development Tools",
+			"ids": [
+				"netfx-4.7.2-devpack",
+				"visualstudio2019community"
+			]
+		},
+		{
+			"category": "FE Development Tools",
+			"ids": [
+				"vscode"
+			]
+		}
+	]
+}
