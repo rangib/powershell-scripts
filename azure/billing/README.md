@@ -47,8 +47,8 @@ Select-AzSubscription -SubscriptionId <your-sub-GUID>
 
 ## 4&nbsp; Place and customise the script
 
-1. Save the parameterised script as **`azure-cost-report.ps1`** (e.g. in `C:\Scripts\Billing`).
-2. Call it with parameters or wrap it in a helper BAT/PS1:
+1. Download and save **`azure-cost-report.ps1`** (e.g. in `C:\Scripts\Billing`).
+2. Change into the folder that you saved **`azure-cost-report.ps1`**
 
 ```powershell
 pwsh .\azure-cost-report.ps1 `
